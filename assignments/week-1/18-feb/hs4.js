@@ -1,10 +1,10 @@
 // 4. find the smallest element in marks array
-let a =[64,6483,75,32,93,20]
-let smallest = a[0]
+let marks=[64,6483,75,32,93,20]
+let smallest = marks[0]
 let i 
-for (i =1;i<a.length;i++){
-    if (a[i] < smallest ){
-        smallest = a[i]
+for (i =1;i<marks.length;i++){
+    if (marks[i] < smallest ){
+        smallest = marks[i]
     }
 
 }
