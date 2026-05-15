@@ -9,15 +9,15 @@ This folder contains introductory JavaScript assignments focusing on core progra
 ```
 week-1/
 ├── 18-feb/              # Day 1 — Core JavaScript Exercises
-│   ├── hs1.js           # Variables and data types
-│   ├── hs2.js           # Arithmetic and assignment operators
-│   ├── hs3.js           # Comparison and logical operators
-│   ├── hs4.js           # Conditional statements (if/else, switch)
-│   ├── hs5.js           # Loops (for, while, do-while)
-│   ├── hs6.js           # Functions and scope
-│   └── hs7.js           # Combined practice problems
+│   ├── largest-num.js    
+│   ├── largest-in three-numbers.js           
+│   ├── array-sum.js           
+│   ├── array-min.js           
+│   ├── largest-using-function.js          
+│   ├── sum-using-function.js         
+│   └── search-element.js          
 └── 19-feb/              # Day 2 — Follow-up Assignment
-    └── assignment_1.js  # Consolidated practice on Week 1 concepts
+    └── employee-operations.js  
 ```
 
 ---
